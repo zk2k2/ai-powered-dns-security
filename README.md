@@ -1,6 +1,6 @@
 # DNSentinel 🔮
 
-DNSentinel is a proof-of-concept project that reimagines DNS resolution through a decentralized and distributed ledger-based approach. By moving away from the traditional centralized DNS server model, DNSentinel introduces a system where DNS records are collaboratively managed and validated by participating nodes in the network.
+DNSentinel is a proof-of-concept research project that reimagines DNS resolution through a decentralized and distributed ledger-based approach. By moving away from the traditional centralized DNS server model, DNSentinel introduces a system where DNS records are collaboratively managed and validated by participating nodes in the network.
 
 https://github.com/user-attachments/assets/041a74a6-4c31-4d38-9a36-bf593405c1a6
 
