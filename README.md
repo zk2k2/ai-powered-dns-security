@@ -1,4 +1,4 @@
-# DNSentinel 🔮
+# Decentralized DNS Security with ML-Powered Threat Detection
 
 DNSentinel is a proof-of-concept research project that reimagines DNS resolution through a decentralized and distributed ledger-based approach. By moving away from the traditional centralized DNS server model, DNSentinel introduces a system where DNS records are collaboratively managed and validated by participating nodes in the network.
 
